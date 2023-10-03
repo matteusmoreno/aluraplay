@@ -2,9 +2,6 @@
 
 [![HTML](https://img.shields.io/badge/HTML-5-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Roboto-orange)](https://fonts.google.com/specimen/Roboto)
-[![GitHub](https://img.shields.io/badge/GitHub-matteusmoreno-green)](https://github.com/matteusmoreno)
 
 Este é o repositório do AluraPlay, uma plataforma de streaming de vídeos. Aqui você encontrará o código-fonte em HTML, CSS e JavaScript que constitui a página da AluraPlay.
 
